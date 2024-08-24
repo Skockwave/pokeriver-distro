@@ -1,0 +1,26 @@
+{
+  "$schema": "file:///C:/helios/pokeriver/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "pokeriver (Minecraft 1.16.5)",
+    "description": "pokeriver Running Minecraft 1.16.5 (Forge v36.2.34)",
+    "icon": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/serverlogo.png",
+    "address": "pokeriver.mcv.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "36.2.34"
+  },
+  "untrackedFiles": [{
+	"appliesTo": ["files"],
+	"patterns": [
+	  "options.txt"
+	]
+  }]
+}
