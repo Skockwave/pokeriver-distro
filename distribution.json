@@ -552,7 +552,7 @@
           "type": "File",
           "artifact": {
             "size": 326398555,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/files/resourcepacks/PRRE.zip",
+            "url": "https://github.com/Skockwave/pokeriver-distro/raw/main/servers/pokeriver-1.16.5/files/resourcepacks/PRRE.zip",
             "MD5": "0c4aabdd189e8d96e3043f14bc57cf7b",
             "path": "resourcepacks/PRRE.zip"
           }
