@@ -507,6 +507,26 @@
           }
         },
         {
+          "id": "mezz.jei:jei:7.8.0.1009@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 839446,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/jei-1.16.5-7.8.0.1009.jar",
+            "MD5": "6c7827e443f483cc5e94aaff7c694901"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.8.6@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6694200,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/journeymap-1.16.5-5.8.6.jar",
+            "MD5": "60fc57f5aace9a4c92896f4ced0c60f0"
+          }
+        },
+        {
           "id": "kr.poke24:ratingresource:1.0.0@jar",
           "name": "Ratingresource",
           "type": "ForgeMod",
