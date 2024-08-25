@@ -12,8 +12,8 @@
       "name": "pokeriver (Minecraft 1.16.5)",
       "description": "pokeriver Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/serverlogo.png",
-      "version": "1.0.1",
-      "address": "pokeriver.kro.kr",
+      "version": "1.0.0",
+      "address": "pokeriver.mcv.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
