@@ -12,7 +12,7 @@
       "name": "pokeriver (Minecraft 1.16.5)",
       "description": "pokeriver Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/serverlogo.png",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "address": "0f54edf4.secure.mcv.kr:10088",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -581,9 +581,9 @@
           "name": "PRRE.zip",
           "type": "File",
           "artifact": {
-            "size": 326398555,
-            "url": "https://www.dropbox.com/scl/fi/eupwo7ttahjlbk1nz6gvj/PRRE.zip?rlkey=1bni02021vir0k4qcv0stxpc7&st=kboj9wri&dl=1",
-            "MD5": "0c4aabdd189e8d96e3043f14bc57cf7b",
+            "size": 466882291,
+            "url": "https://www.dropbox.com/scl/fi/b2s25pe0gpy1tojcazmts/PRRE.zip?rlkey=vq44zvfhcbiqqin9henwky60a&st=sq3vb03c&dl=1",
+            "MD5": "216e64ef03ed86c407380d0e37db9e29",
             "path": "resourcepacks/PRRE.zip"
           }
         }
