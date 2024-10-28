@@ -507,7 +507,7 @@
           }
         },
         {
-          "id": "PixelTweaks.jar",
+          "id": "pixeltweaks.jar",
           "name": "PixelTweaks",
           "type": "ForgeMod",
           "artifact": {
