@@ -586,6 +586,17 @@
             "MD5": "216e64ef03ed86c407380d0e37db9e29",
             "path": "resourcepacks/PRRE.zip"
           }
+        },
+        {
+          "id": "pixeltweaks.jar",
+          "name": "PixelTweaks",
+          "type": "File",
+          "artifact": {
+            "size": 426052437,
+            "url": "https://www.dropbox.com/scl/fi/uyh1b8hjkuiow88qf6x2g/PixelTweaks-1.10.6.jar?rlkey=geensxxb3s2paeh7q676c5iqu&st=eh0vwzia&dl=1",
+            "MD5": "06b20e29c4459836ddba2508f43811e1",
+            "path": "mods/pixeltweaks.jar"
+          }
         }
       ]
     }
