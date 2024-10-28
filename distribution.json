@@ -589,7 +589,7 @@
         },
         {
           "id": "pixeltweaks.jar",
-          "name": "PixelTweaks",
+          "name": "pixeltweaks.jar",
           "type": "File",
           "artifact": {
             "size": 426052437,
