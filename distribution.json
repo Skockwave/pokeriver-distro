@@ -507,6 +507,16 @@
           }
         },
         {
+          "id": "PixelTweaks.jar",
+          "name": "PixelTweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 426052437,
+            "url": "https://www.dropbox.com/scl/fi/uyh1b8hjkuiow88qf6x2g/PixelTweaks-1.10.6.jar?rlkey=geensxxb3s2paeh7q676c5iqu&st=eh0vwzia&dl=1",
+            "MD5": "06b20e29c4459836ddba2508f43811e1"
+          }
+        },
+        {
           "id": "mezz.jei:jei:7.8.0.1009@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
