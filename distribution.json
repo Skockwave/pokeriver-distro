@@ -577,14 +577,14 @@
           }
         },
         {
-          "id": "PRRE.zip",
-          "name": "PRRE.zip",
+          "id": "PokeRiver.zip",
+          "name": "PokeRiver.zip",
           "type": "File",
           "artifact": {
             "size": 467770418,
-            "url": "https://www.dropbox.com/scl/fi/o38yi620bqpswzdwa6d17/POkERIVER.zip?rlkey=dos32kbah3weglyjatftn5syd&st=qvcv9hzq&dl=1",
+            "url": "https://www.dropbox.com/scl/fi/b70jjgyye6pqup7vrb2a0/POkERIVER.zip?rlkey=jzi3lz9suqdlm0m3h0td5zglz&st=meivhds9&dl=1",
             "MD5": "216e64ef03ed86c407380d0e37db9e29",
-            "path": "resourcepacks/PRRE.zip"
+            "path": "resourcepacks/PokeRiver.zip"
           }
         },
         {
