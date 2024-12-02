@@ -497,9 +497,9 @@
           }
         },
         {
-          "id": "com.pixelmonmod:pixelmon:9.1.12@jar",
+          "id": "com.pixelmonmod:pixelmon:9.1.13@jar",
           "name": "Pixelmon Mod",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 426052437,
             "url": "https://www.dropbox.com/scl/fi/psoeiaby706nwi0t66cmx/Pixelmon-1.16.5-9.1.13-universal.jar?rlkey=eysc30f6ru1g1nlozsb6cq65q&st=paekn88f&dl=1",
