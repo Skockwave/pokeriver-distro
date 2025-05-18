@@ -442,8 +442,58 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1185710,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/fantasyfurniture-1.16.5-2.0.2",
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/fantasyfurniture-1.16.5-2.0.2.jar",
             "MD5": "112506716cc188519c4a33bf2c4da6d0"
+          }
+        },
+        {
+          "id": "com.mcwfences.kikoz:mcwfences:1.0.7@jar",
+          "name": "Macaw's Fences and Walls",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 294223,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/mcw-fences-1.0.7-mc1.16.5forge%20(2).jar",
+            "MD5": "fddb089b091b67d4b9e23f9741988a1c"
+          }
+        },
+        {
+          "id": "com.mcwfurnitures.kikoz:mcwfurnitures:3.2.0@jar",
+          "name": "Macaw's Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1383691,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/mcw-furniture-3.2.0-mc1.16.5forge.jar",
+            "MD5": "0d7ad1afb0c7ea95012c03a94461e978"
+          }
+        },
+        {
+          "id": "com.mcwpaths.kikoz:mcwpaths:1.0.3@jar",
+          "name": "Macaw's Paths and Pavings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 249277,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/mcw-paths-1.0.3forge-mc1.16.5.jar",
+            "MD5": "c3c1bf62a99b11cf4559eec377477035"
+          }
+        },
+        {
+          "id": "com.mcwroofs.kikoz:mcwroofs:2.2.4@jar",
+          "name": "Macaw's Roofs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1604976,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/mcw-roofs-2.2.4-mc1.16.5forge.jar",
+            "MD5": "1333ad44361748aadc69bc82dc215907"
+          }
+        },
+        {
+          "id": "com.mcwwindows.kikoz:mcwwindows:2.2.0@jar",
+          "name": "Macaw's Windows",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1024374,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/mcw-windows-2.2.0-mc1.16.5forge.jar",
+            "MD5": "c4ba595171af44eb963300e297f6add7"
           }
         },
         {
