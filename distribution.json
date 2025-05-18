@@ -457,7 +457,7 @@
           }
         },
         {
-          "id": "com.mcwfurnitures.kikoz:mcwfurnitures:3.2.0@jar",
+          "id": "io.izzel.lightfall:lightfall-client:1d4473d@jar",
           "name": "lightfall",
           "type": "ForgeMod",
           "artifact": {
