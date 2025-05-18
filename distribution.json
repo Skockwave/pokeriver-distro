@@ -427,6 +427,16 @@
           }
         },
         {
+          "id": "xyz.apex.forge.apexcore.core:apexcore:1.10.0@jar",
+          "name": "ApexCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 763235,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/apexcore-1.16.5-1.10.0.jar",
+            "MD5": "7e7ada833ee9fea06f5d05699f227fed"
+          }
+        },
+        {
           "id": "vectorwing.farmersdelight:farmersdelight:1.16.5-0.6.0@jar",
           "name": "Farmer's Delight",
           "type": "ForgeMod",
