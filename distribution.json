@@ -477,7 +477,7 @@
           }
         },
         {
-          "id": "com.mcwroofs.kikoz:mcwroofs:2.2.4@jar",
+          "id": "com.mcwroofs.kikoz:apexcore:10.0@jar",
           "name": "apexcore",
           "type": "ForgeMod",
           "artifact": {
