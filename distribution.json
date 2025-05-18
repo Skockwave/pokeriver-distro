@@ -12,7 +12,7 @@
       "name": "pokeriver (Minecraft 1.16.5)",
       "description": "pokeriver Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/serverlogo.png",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "address": "0f54edf4.secure.mcv.kr:10088",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -437,8 +437,8 @@
           }
         },
         {
-          "id": "com.mcwdoors.kikoz:fantasyfurniture:1.1.0@jar",
-          "name": "fantasyfurniture",
+          "id": "com.mcwdoors.kikoz:fantasyfurniture:2.0.2@jar",
+          "name": "Fantasy's Furniture",
           "type": "ForgeMod",
           "artifact": {
             "size": 1185710,
@@ -478,7 +478,7 @@
         },
         {
           "id": "com.mcwroofs.kikoz:apexcore:10.0@jar",
-          "name": "apexcore",
+          "name": "ApexCore",
           "type": "ForgeMod",
           "artifact": {
             "size": 763235,
