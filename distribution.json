@@ -467,8 +467,8 @@
           }
         },
         {
-          "id": "com.mcwpaths.kikoz:mcwpaths:1.0.3@jar",
-          "name": "sophisticatedbackpacks",
+          "id": "com.mcwpaths.kikoz:sophisticatedbackpacks:34.0.0@jar",
+          "name": "Sophisticated Backpacks",
           "type": "ForgeMod",
           "artifact": {
             "size": 1485777,
