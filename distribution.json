@@ -437,7 +437,7 @@
           }
         },
         {
-          "id": "com.mcwdoors.kikoz:fantasyfurniture:1.16.5-2.0.2@jar",
+          "id": "xyz.apex.forge.fantasyfurniture:fantasyfurniture:1.16.5-2.0.2@jar",
           "name": "Fantasy's Furniture",
           "type": "ForgeMod",
           "artifact": {
@@ -447,7 +447,7 @@
           }
         },
         {
-          "id": "com.mcwfences.kikoz:mcwfences:1.0.7@jar",
+          "id": "com.mcwfences.kikoz:farmersdelightintegration:1.16.5-1.0.3@jar",
           "name": "farmersdelightintegration",
           "type": "ForgeMod",
           "artifact": {
