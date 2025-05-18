@@ -477,16 +477,6 @@
           }
         },
         {
-          "id": "xyz.apex.forge.apexcore:apexcore:1.16.5-1.10.0@jar",
-          "name": "ApexCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 763235,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/apexcore-1.16.5-1.10.0.jar",
-            "MD5": "1333ad44361748aadc69bc82dc215907"
-          }
-        },
-        {
           "id": "mezz.jei:jei:7.8.0.1009@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
