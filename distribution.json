@@ -598,17 +598,6 @@
             "MD5": "06b20e29c4459836ddba2508f43811e1",
             "path": "mods/pixelmon9.1.13.jar"
           }
-        },
-        {
-          "id": "lightfall-client-1d4473d.jar",
-          "name": "lightfall",
-          "type": "File",
-          "artifact": {
-            "size": 426052437,
-            "url": "https://www.dropbox.com/scl/fi/zx83fwfsctgg1umkfu4bm/lightfall-client-1d4473d.jar?rlkey=8bu9ajp790vnrxtgumk68hui7&st=3fo8ear6&dl=1",
-            "MD5": "06b20e29c4459836ddba2508f43811e1",
-            "path": "mods/lightfall-client-1d4473d.jar"
-          }
         }
       ]
     }
