@@ -438,7 +438,7 @@
         },
         {
           "id": "xyz.apex.forge.fantasyfurniture:fantasyfurniture:1.16.5-2.0.2@jar",
-          "name": "Fantasy's Furniture",
+          "name": "Fantasy Furniture",
           "type": "ForgeMod",
           "artifact": {
             "size": 1185710,
@@ -474,6 +474,16 @@
             "size": 1485777,
             "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/sophisticatedbackpacks.jar",
             "MD5": "c3c1bf62a99b11cf4559eec377477035"
+          }
+        },
+        {
+          "id": "xyz.apex.forge.apexcore:apexcore:1.16.5-1.10.0@jar",
+          "name": "ApexCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 763235,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/apexcore-1.16.5-1.10.0.jar",
+            "MD5": "1333ad44361748aadc69bc82dc215907"
           }
         },
         {
