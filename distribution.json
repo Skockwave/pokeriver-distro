@@ -12,7 +12,7 @@
       "name": "pokeriver (Minecraft 1.16.5)",
       "description": "pokeriver Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/serverlogo.png",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "address": "0f54edf4.secure.mcv.kr:10088",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -437,6 +437,26 @@
           }
         },
         {
+          "id": "mezz.jei:jei:7.8.0.1009@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 839446,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/jei-1.16.5-7.8.0.1009.jar",
+            "MD5": "6c7827e443f483cc5e94aaff7c694901"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.8.6@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6694200,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/journeymap-1.16.5-5.8.6.jar",
+            "MD5": "60fc57f5aace9a4c92896f4ced0c60f0"
+          }
+        },
+        {
           "id": "com.mcwdoors.kikoz:mcwdoors:1.1.0@jar",
           "name": "Macaw's Doors",
           "type": "ForgeMod",
@@ -497,23 +517,25 @@
           }
         },
         {
-          "id": "mezz.jei:jei:7.8.0.1009@jar",
-          "name": "Just Enough Items",
-          "type": "ForgeMod",
+          "id": "pixeltweaks.jar",
+          "name": "pixeltweaks.jar",
+          "type": "File",
           "artifact": {
-            "size": 839446,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/jei-1.16.5-7.8.0.1009.jar",
-            "MD5": "6c7827e443f483cc5e94aaff7c694901"
+            "size": 426052437,
+            "url": "https://www.dropbox.com/scl/fi/g4fenwsbk6mhxnhb4bzns/PixelTweaks-1.10.6.jar?rlkey=cgbqumn7he9opjd66nptl1dfn&st=9v0bm6y7&dl=1",
+            "MD5": "06b20e29c4459836ddba2508f43811e1",
+            "path": "mods/pixeltweaks.jar"
           }
         },
         {
-          "id": "journeymap:journeymap:5.8.6@jar",
-          "name": "Journeymap",
-          "type": "ForgeMod",
+          "id": "pixelmon9.1.13.jar",
+          "name": "Pixelmon Mod",
+          "type": "File",
           "artifact": {
-            "size": 6694200,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/journeymap-1.16.5-5.8.6.jar",
-            "MD5": "60fc57f5aace9a4c92896f4ced0c60f0"
+            "size": 426052437,
+            "url": "https://www.dropbox.com/scl/fi/pukk5l1pdg2iwg0g1hbw5/Pixelmon-1.16.5-9.1.13-universal.jar?rlkey=q73laqrpxjj4ow6ej7lijh9yx&st=wagp0d48&dl=1",
+            "MD5": "06b20e29c4459836ddba2508f43811e1",
+            "path": "mods/pixelmon9.1.13.jar"
           }
         },
         {
@@ -564,50 +586,6 @@
             "size": 4098,
             "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/files/options.txt",
             "path": "options.txt"
-          }
-        },
-        {
-          "id": "PokeRiver.zip",
-          "name": "PokeRiver.zip",
-          "type": "File",
-          "artifact": {
-            "size": 467770418,
-            "url": "https://www.dropbox.com/scl/fi/rg2zatqs1yuj97exnodmx/POkERIVER.zip?rlkey=a6jnubl0vugq76mgudtja4p0x&st=dqxpovbd&dl=1",
-            "MD5": "216e64ef03ed86c407380d0e37db9e29",
-            "path": "resourcepacks/PokeRiver.zip"
-          }
-        },
-        {
-          "id": "pixeltweaks.jar",
-          "name": "pixeltweaks.jar",
-          "type": "File",
-          "artifact": {
-            "size": 426052437,
-            "url": "https://www.dropbox.com/scl/fi/g4fenwsbk6mhxnhb4bzns/PixelTweaks-1.10.6.jar?rlkey=cgbqumn7he9opjd66nptl1dfn&st=9v0bm6y7&dl=1",
-            "MD5": "06b20e29c4459836ddba2508f43811e1",
-            "path": "mods/pixeltweaks.jar"
-          }
-        },
-        {
-          "id": "pixelmon9.1.13.jar",
-          "name": "Pixelmon Mod",
-          "type": "File",
-          "artifact": {
-            "size": 426052437,
-            "url": "https://www.dropbox.com/scl/fi/pukk5l1pdg2iwg0g1hbw5/Pixelmon-1.16.5-9.1.13-universal.jar?rlkey=q73laqrpxjj4ow6ej7lijh9yx&st=wagp0d48&dl=1",
-            "MD5": "06b20e29c4459836ddba2508f43811e1",
-            "path": "mods/pixelmon9.1.13.jar"
-          }
-        },
-        {
-          "id": "lightfall-client-1d4473d.jar",
-          "name": "lightfall",
-          "type": "File",
-          "artifact": {
-            "size": 426052437,
-            "url": "https://www.dropbox.com/scl/fi/zx83fwfsctgg1umkfu4bm/lightfall-client-1d4473d.jar?rlkey=8bu9ajp790vnrxtgumk68hui7&st=3fo8ear6&dl=1",
-            "MD5": "06b20e29c4459836ddba2508f43811e1",
-            "path": "mods/lightfall-client-1d4473d.jar"
           }
         }
       ]
