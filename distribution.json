@@ -448,31 +448,31 @@
         },
         {
           "id": "com.mcwfences.kikoz:mcwfences:1.0.7@jar",
-          "name": "Macaw's Fences and Walls",
+          "name": "farmersdelightintegration",
           "type": "ForgeMod",
           "artifact": {
-            "size": 294223,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/mcw-fences-1.0.7-mc1.16.5forge%20(2).jar",
+            "size": 3063,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/farmersdelightintegration-1.16.5-1.0.3.jar",
             "MD5": "fddb089b091b67d4b9e23f9741988a1c"
           }
         },
         {
           "id": "com.mcwfurnitures.kikoz:mcwfurnitures:3.2.0@jar",
-          "name": "Macaw's Furniture",
+          "name": "lightfall",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1383691,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/mcw-furniture-3.2.0-mc1.16.5forge.jar",
+            "size": 10745,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/lightfall-client-1d4473d.jar",
             "MD5": "0d7ad1afb0c7ea95012c03a94461e978"
           }
         },
         {
           "id": "com.mcwpaths.kikoz:mcwpaths:1.0.3@jar",
-          "name": "Macaw's Paths and Pavings",
+          "name": "sophisticatedbackpacks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 249277,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/mcw-paths-1.0.3forge-mc1.16.5.jar",
+            "size": 1485777,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/sophisticatedbackpacks.jar",
             "MD5": "c3c1bf62a99b11cf4559eec377477035"
           }
         },
@@ -524,26 +524,6 @@
             "size": 4137547,
             "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/ratingresource-1.0.0.jar",
             "MD5": "b96037151b85bbaecce85779c8b4483e"
-          }
-        },
-        {
-          "id": "info.u_team.u_team_core:uteamcore:3.2.1.258@jar",
-          "name": "U Team Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 398201,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/u_team_core-1.16.5-3.2.1.258.jar",
-            "MD5": "95d960974f901c851e73c6763b42efd5"
-          }
-        },
-        {
-          "id": "info.u_team.useful_backpacks:usefulbackpacks:1.12.1.103@jar",
-          "name": "Useful Backpacks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 167996,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/useful_backpacks-1.16.5-1.12.1.103.jar",
-            "MD5": "b6d5dde03d67b89a10235436359e8b75"
           }
         },
         {
