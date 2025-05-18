@@ -481,7 +481,7 @@
           "name": "apexcore",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1604976,
+            "size": 763235,
             "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/apexcore-1.16.5-1.10.0.jar",
             "MD5": "1333ad44361748aadc69bc82dc215907"
           }
