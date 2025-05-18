@@ -437,16 +437,6 @@
           }
         },
         {
-          "id": "xyz.apex.forge.fantasyfurniture:fantasyfurniture:1.16.5-2.0.2@jar",
-          "name": "Fantasy Furniture",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1185710,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/fantasyfurniture-1.16.5-2.0.2.jar",
-            "MD5": "112506716cc188519c4a33bf2c4da6d0"
-          }
-        },
-        {
           "id": "com.mcwfences.kikoz:farmersdelightintegration:1.16.5-1.0.3@jar",
           "name": "farmersdelightintegration",
           "type": "ForgeMod",
