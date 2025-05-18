@@ -477,7 +477,7 @@
           }
         },
         {
-          "id": "com.mcwroofs.kikoz:apexcore:10.0@jar",
+          "id": "xyz.apex.forge.apexcore:apexcore:1.16.5-1.10.0@jar",
           "name": "ApexCore",
           "type": "ForgeMod",
           "artifact": {
