@@ -12,7 +12,7 @@
       "name": "pokeriver (Minecraft 1.16.5)",
       "description": "pokeriver Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/serverlogo.png",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "address": "0f54edf4.secure.mcv.kr:10088",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -474,6 +474,16 @@
             "size": 1485777,
             "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/sophisticatedbackpacks.jar",
             "MD5": "c3c1bf62a99b11cf4559eec377477035"
+          }
+        },
+        {
+          "id": "com.mcwroofs.kikoz:mcwroofs:2.2.4@jar",
+          "name": "apexcore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1604976,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/apexcore-1.16.5-1.10.0.jar",
+            "MD5": "1333ad44361748aadc69bc82dc215907"
           }
         },
         {
