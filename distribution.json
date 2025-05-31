@@ -417,26 +417,6 @@
           }
         },
         {
-          "id": "xyz.apex:fantasyfurniture:2.0.2@jar",
-          "name": "Fantasy's Furniture",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1185710,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/fantasyfurniture-1.16.5-2.0.2.jar",
-            "MD5": "ae25de439ceeb2b2e04a7a21519bcbd8"
-          }
-        },
-        {
-          "id": "xyz.apex.forge.apexcore.core:apexcore:1.10.0@jar",
-          "name": "ApexCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 763235,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/apexcore-1.16.5-1.10.0.jar",
-            "MD5": "7e7ada833ee9fea06f5d05699f227fed"
-          }
-        },
-        {
           "id": "vectorwing.farmersdelight:farmersdelight:1.16.5-0.6.0@jar",
           "name": "Farmer's Delight",
           "type": "ForgeMod",
@@ -474,16 +454,6 @@
             "size": 6694200,
             "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/journeymap-1.16.5-5.8.6.jar",
             "MD5": "60fc57f5aace9a4c92896f4ced0c60f0"
-          }
-        },
-        {
-          "id": "io.izzel.lightfall.client:lightfallclient:1.0.0+unknown@jar",
-          "name": "LightfallClient",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 10745,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/lightfall-client-1d4473d.jar",
-            "MD5": "b61a72de06b090eaae37157cd0c49a85"
           }
         },
         {
