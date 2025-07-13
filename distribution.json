@@ -519,14 +519,14 @@
           }
         },
         {
-          "id": "Stellar.jar",
+          "id": "examplemod-0.0.1.jar",
           "name": "Stellar Mod",
           "type": "File",
           "artifact": {
             "size": 426052437,
             "url": "https://www.dropbox.com/scl/fi/s109yi53uo3e74n7nlvd6/examplemod-0.0.1.jar?rlkey=o3ui9fk2n4z004q6zqus2bj3j&st=6k1qsstl&dl=1",
             "MD5": "06b20e29c4459836ddba2508f43811e1",
-            "path": "mods/Stellar.jar"
+            "path": "mods/examplemod-0.0.1.jar"
           }
         },
         {
