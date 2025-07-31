@@ -530,6 +530,17 @@
           }
         },
         {
+          "id": "Stellar.jar",
+          "name": "StellarR",
+          "type": "File",
+          "artifact": {
+            "size": 326398555,
+            "url": "https://www.dropbox.com/scl/fi/8ma9skd7jgbq9tvmdinz4/generated.zip?rlkey=uw4moefrrj6coivb5w7dgfc4v&st=s2ur53al&dl=1",
+            "MD5": "0c4aabdd189e8d96e3043f14bc57cf7b",
+            "path": "resourcepacks/PRRE.zip"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
