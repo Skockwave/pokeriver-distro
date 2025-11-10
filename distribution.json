@@ -12,7 +12,7 @@
       "name": "PokeForest (Minecraft 1.16.5)",
       "description": "Stellar Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/serverlogo.png",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "address": "552862d2.secure.mcv.kr:10169",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -21,7 +21,7 @@
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.5-36.2.34",
