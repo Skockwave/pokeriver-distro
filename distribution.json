@@ -501,6 +501,17 @@
           }
         },
         {
+          "id": "jei-1.16.5-7.8.0.1013.jar",
+          "name": "jei Mod",
+          "type": "File",
+          "artifact": {
+            "size": 426052437,
+            "url": "https://www.dropbox.com/scl/fi/op0yarlniztu72slql812/jei-1.16.5-7.8.0.1013.jar?rlkey=oeut6cuoenl3yyzd80e3pvdba&st=6l0yyqux&dl=1",
+            "MD5": "06b20e29c4459836ddba2508f43811e1",
+            "path": "mods/jei-1.16.5-7.8.0.1013.jar"
+          }
+        },
+        {
           "id": "kr.poke24:ratingresource:1.0.0@jar",
           "name": "Ratingresource",
           "type": "ForgeMod",
