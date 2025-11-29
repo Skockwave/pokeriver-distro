@@ -568,9 +568,39 @@
           "type": "File",
           "artifact": {
             "size": 426052437,
-            "url": "https://www.dropbox.com/scl/fi/qv61fw9ace2s9a6pv2aup/meun.jar?rlkey=qlev9yr2eom1j536keums61ag&st=wqpr5oe8&dl=1",
+            "url": "https://www.dropbox.com/scl/fi/gxl9esxofuxihz2yrwnyc/meun.jar?rlkey=54gmhsz1dgr0k0pdvm22psman&st=ffycq4c7&dl=1",
             "MD5": "06b20e29c4459836ddba2508f43811e1",
-            "path": "mods/examplemod-0.0.1.jar"
+            "path": "mods/meun.jar"
+          }
+        },{
+          "id": "pokepc.jar",
+          "name": "Stellar Mod",
+          "type": "File",
+          "artifact": {
+            "size": 426052437,
+            "url": "https://www.dropbox.com/scl/fi/83qtahdqj97wpyuagh3q0/pcgui.jar?rlkey=j6r6zvfoo80acjqeril80nfb0&st=limfmswv&dl=1",
+            "MD5": "06b20e29c4459836ddba2508f43811e1",
+            "path": "mods/pokepc.jar"
+          }
+        },{
+          "id": "xercamusic-1.16.5-2.1.2",
+          "name": "Stellar Mod",
+          "type": "File",
+          "artifact": {
+            "size": 426052437,
+            "url": "https://www.dropbox.com/scl/fi/u07cxx1oub4ql7ry2vzed/xercamusic-1.16.5-2.1.2.jar?rlkey=4fzmemvh0c5819i545t6jw9ap&st=g2mq4rdv&dl=1",
+            "MD5": "06b20e29c4459836ddba2508f43811e1",
+            "path": "mods/xercamusic-1.16.5-2.1.2"
+          }
+        },{
+          "id": "immersive_paintings-0.4.4+1.16.5",
+          "name": "Stellar Mod",
+          "type": "File",
+          "artifact": {
+            "size": 426052437,
+            "url": "https://www.dropbox.com/scl/fi/crfjbk2x1eq0ti9quknhn/immersive_paintings-0.4.4-1.16.5.jar?rlkey=bas0bskv1sd6q0378uugvrhbg&st=56r9uev1&dl=1",
+            "MD5": "06b20e29c4459836ddba2508f43811e1",
+            "path": "mods/immersive_paintings-0.4.4+1.16.5"
           }
         },
         {
