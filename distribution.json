@@ -574,7 +574,7 @@
           }
         },{
           "id": "pokepc.jar",
-          "name": "Stellar Mod",
+          "name": "pokepc Mod",
           "type": "File",
           "artifact": {
             "size": 426052437,
@@ -584,7 +584,7 @@
           }
         },{
           "id": "xercamusic-1.16.5-2.1.2",
-          "name": "Stellar Mod",
+          "name": "xercamusic Mod",
           "type": "File",
           "artifact": {
             "size": 426052437,
@@ -594,7 +594,7 @@
           }
         },{
           "id": "immersive_paintings-0.4.4+1.16.5",
-          "name": "Stellar Mod",
+          "name": "immersive Mod",
           "type": "File",
           "artifact": {
             "size": 426052437,
