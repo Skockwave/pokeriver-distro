@@ -583,24 +583,24 @@
             "path": "mods/pokepc.jar"
           }
         },{
-          "id": "xercamusic-1.16.5-2.1.2",
+          "id": "xercamusic.jar",
           "name": "xercamusic Mod",
           "type": "File",
           "artifact": {
             "size": 426052437,
-            "url": "https://www.dropbox.com/scl/fi/u07cxx1oub4ql7ry2vzed/xercamusic-1.16.5-2.1.2.jar?rlkey=4fzmemvh0c5819i545t6jw9ap&st=rx3ftc33&dl=1",
+            "url": "https://www.dropbox.com/scl/fi/zwvesgtxiak9662gryjbh/xercamusic.jar?rlkey=kyxffm0rj11z0r33zv1hhkkpo&st=nslbhqwb&dl=1",
             "MD5": "06b20e29c4459836ddba2508f43811e1",
-            "path": "mods/xercamusic-1.16.5-2.1.2"
+            "path": "mods/xercamusic.jar"
           }
         },{
-          "id": "immersive_paintings-0.4.4+1.16.5",
+          "id": "immersive_paintings-0.4.4+1.16.5.jar",
           "name": "immersive Mod",
           "type": "File",
           "artifact": {
             "size": 426052437,
             "url": "https://www.dropbox.com/scl/fi/crfjbk2x1eq0ti9quknhn/immersive_paintings-0.4.4-1.16.5.jar?rlkey=bas0bskv1sd6q0378uugvrhbg&st=yksmtjzj&dl=1",
             "MD5": "06b20e29c4459836ddba2508f43811e1",
-            "path": "mods/immersive_paintings-0.4.4+1.16.5"
+            "path": "mods/immersive_paintings-0.4.4+1.16.5.jar"
           }
         },
         {
