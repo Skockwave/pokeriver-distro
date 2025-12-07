@@ -490,6 +490,17 @@
           }
         },
         {
+          "id": "terashard.jar",
+          "name": "terashard Mod",
+          "type": "File",
+          "artifact": {
+            "size": 426052437,
+            "url": "https://www.dropbox.com/scl/fi/dg0er5ckgf6f3zbtqvzxg/terashard.jar?rlkey=9ezhbbfh5zd2i34rg04igaj2z&st=nuts3vjk&dl=1",
+            "MD5": "06b20e29c4459836ddba2508f43811e1",
+            "path": "mods/terashard.jar"
+          }
+        },
+        {
           "id": "flywheel-1.16-0.2.5.jar",
           "name": "flywheel Mod",
           "type": "File",
