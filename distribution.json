@@ -634,6 +634,50 @@
             "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/files/options.txt",
             "path": "options.txt"
           }
+        },
+        {
+          "id": "pixelmonbattleguideClient.jar",
+          "name": "pixelmonbattleguideClient.jar",
+          "type": "File",
+          "artifact": {
+            "size": 426052437,
+            "url": "https://www.dropbox.com/scl/fi/o24vx05bqfh16s9w29u5z/pixelmonbattleguideClient.jar?rlkey=hqqs7xmrs3xbtbr0ioklpa2tb&st=qrdf176p&dl=1",
+            "MD5": "06b20e29c4459836ddba2508f43811e1",
+            "path": "mods/pixelmonbattleguideClient.jar"
+          }
+        },
+        {
+          "id": "pixelmon-disguise-1.16.5-1.0.0-client.jar",
+          "name": "pixelmon-disguise-1.16.5-1.0.0-client.jar",
+          "type": "File",
+          "artifact": {
+            "size": 426052437,
+            "url": "https://www.dropbox.com/scl/fi/eu3qqbahwmkyzdqifzaxr/pixelmon-disguise-1.16.5-1.0.0-client.jar?rlkey=pjnzo7qzgtdddc75ldafoqm5b&st=0zp3jkw2&dl=1",
+            "MD5": "06b20e29c4459836ddba2508f43811e1",
+            "path": "mods/pixelmon-disguise-1.16.5-1.0.0-client.jar"
+          }
+        },
+        {
+          "id": "PixelmonPokedex-1.0.0-client.jar",
+          "name": "PixelmonPokedex-1.0.0-client.jar",
+          "type": "File",
+          "artifact": {
+            "size": 426052437,
+            "url": "https://www.dropbox.com/scl/fi/9fe559iamth7jlaltqvy9/PixelmonPokedex-1.0.0-client.jar?rlkey=gxpnq8wnmyk1r5zhc310fi1dg&st=vbpgn0ni&dl=1",
+            "MD5": "06b20e29c4459836ddba2508f43811e1",
+            "path": "mods/PixelmonPokedex-1.0.0-client.jar"
+          }
+        },
+        {
+          "id": "PixelmonSoccer-1.0.0-client.jar",
+          "name": "PixelmonSoccer-1.0.0-client.jar",
+          "type": "File",
+          "artifact": {
+            "size": 426052437,
+            "url": "https://www.dropbox.com/scl/fi/sdqdnhz2ds6bkxsw85qs1/PixelmonSoccer-1.0.0-client.jar?rlkey=ccl0mp5rs458aogsnf808ygbw&st=bko3l92y&dl=1",
+            "MD5": "06b20e29c4459836ddba2508f43811e1",
+            "path": "mods/PixelmonSoccer-1.0.0-client.jar"
+          }
         }
       ]
     }
