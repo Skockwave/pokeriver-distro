@@ -626,16 +626,6 @@
           }
         },
         {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 4098,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/files/options.txt",
-            "path": "options.txt"
-          }
-        },
-        {
           "id": "pixelmonbattleguideClient.jar",
           "name": "pixelmonbattleguideClient.jar",
           "type": "File",
@@ -677,6 +667,16 @@
             "url": "https://www.dropbox.com/scl/fi/sdqdnhz2ds6bkxsw85qs1/PixelmonSoccer-1.0.0-client.jar?rlkey=ccl0mp5rs458aogsnf808ygbw&st=bko3l92y&dl=1",
             "MD5": "06b20e29c4459836ddba2508f43811e1",
             "path": "mods/PixelmonSoccer-1.0.0-client.jar"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4098,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/files/options.txt",
+            "path": "options.txt"
           }
         }
       ]
