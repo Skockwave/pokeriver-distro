@@ -479,6 +479,17 @@
           }
         },
         {
+          "id": "dad.jar",
+          "name": "pokeforst.jar",
+          "type": "File",
+          "artifact": {
+            "size": 426052437,
+            "url": "https://www.dropbox.com/scl/fi/fmy47km5in898tnckmw4b/dad.jar?rlkey=dx1q17pkvyvnd6hkyzaje8udl&st=ozma6xxa&dl=1",
+            "MD5": "06b20e29c4459836ddba2508f43811e1",
+            "path": "mods/dad.jar"
+          }
+        },
+        {
           "id": "Pixelmon9.1.13.jar",
           "name": "Pixelmon Mod",
           "type": "File",
