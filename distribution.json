@@ -648,61 +648,6 @@
           }
         },
         {
-          "id": "pixelmon-disguise-1.16.5-1.0.0-client.jar",
-          "name": "pixelmon-disguise-1.16.5-1.0.0-client.jar",
-          "type": "File",
-          "artifact": {
-            "size": 426052437,
-            "url": "https://www.dropbox.com/scl/fi/eu3qqbahwmkyzdqifzaxr/pixelmon-disguise-1.16.5-1.0.0-client.jar?rlkey=pjnzo7qzgtdddc75ldafoqm5b&st=0zp3jkw2&dl=1",
-            "MD5": "06b20e29c4459836ddba2508f43811e1",
-            "path": "mods/pixelmon-disguise-1.16.5-1.0.0-client.jar"
-          }
-        },
-        {
-          "id": "PixelmonPokedex-1.0.0-client.jar",
-          "name": "PixelmonPokedex-1.0.0-client.jar",
-          "type": "File",
-          "artifact": {
-            "size": 426052437,
-            "url": "https://www.dropbox.com/scl/fi/9fe559iamth7jlaltqvy9/PixelmonPokedex-1.0.0-client.jar?rlkey=gxpnq8wnmyk1r5zhc310fi1dg&st=vbpgn0ni&dl=1",
-            "MD5": "06b20e29c4459836ddba2508f43811e1",
-            "path": "mods/PixelmonPokedex-1.0.0-client.jar"
-          }
-        },
-        {
-          "id": "PixelmonSoccer-1.0.0-client.jar",
-          "name": "PixelmonSoccer-1.0.0-client.jar",
-          "type": "File",
-          "artifact": {
-            "size": 426052437,
-            "url": "https://www.dropbox.com/scl/fi/sdqdnhz2ds6bkxsw85qs1/PixelmonSoccer-1.0.0-client.jar?rlkey=ccl0mp5rs458aogsnf808ygbw&st=bko3l92y&dl=1",
-            "MD5": "06b20e29c4459836ddba2508f43811e1",
-            "path": "mods/PixelmonSoccer-1.0.0-client.jar"
-          }
-        },
-        {
-          "id": "pixelmon_jump_map-0.0.3-forge-1.16.5.jar",
-          "name": "pixelmon_jump_map-0.0.3-forge-1.16.5.jar",
-          "type": "File",
-          "artifact": {
-            "size": 426052437,
-            "url": "https://www.dropbox.com/scl/fi/stl7kjfdy14edc2iihaw3/pixelmon_jump_map-0.0.3-forge-1.16.5.jar?rlkey=vvydywbv6lpriwlr3ddqf0rjd&st=60fu4zv3&dl=1",
-            "MD5": "06b20e29c4459836ddba2508f43811e1",
-            "path": "mods/pixelmon_jump_map-0.0.3-forge-1.16.5.jar"
-          }
-        },
-        {
-          "id": "pixelmon_plus_mod-0.4.2-forge-1.16.5.jar",
-          "name": "pixelmon_plus_mod-0.4.2-forge-1.16.5.jar",
-          "type": "File",
-          "artifact": {
-            "size": 426052437,
-            "url": "https://www.dropbox.com/scl/fi/l5hq2lb4fych1cbnly6mn/pixelmon_plus_mod-0.4.2-forge-1.16.5.jar?rlkey=vzpm0800nbkeqbnz928hnmw8k&st=gcc0b98s&dl=1",
-            "MD5": "06b20e29c4459836ddba2508f43811e1",
-            "path": "mods/pixelmon_plus_mod-0.4.2-forge-1.16.5.jar"
-          }
-        },
-        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
