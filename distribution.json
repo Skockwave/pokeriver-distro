@@ -468,6 +468,17 @@
           }
         },
         {
+          "id": "boss.jar",
+          "name": "boss.jar",
+          "type": "File",
+          "artifact": {
+            "size": 426052437,
+            "url": "https://www.dropbox.com/scl/fi/r3f9higxi97g3wa7jvlne/boss.jar?rlkey=afadun6apkcltu3zujfv7l0w5&st=toy059qa&dl=1",
+            "MD5": "06b20e29c4459836ddba2508f43811e1",
+            "path": "mods/boss.jar"
+          }
+        },
+        {
           "id": "pokeforst.jar",
           "name": "pokeforst.jar",
           "type": "File",
