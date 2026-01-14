@@ -501,14 +501,14 @@
           }
         },
         {
-          "id": "Pixelmon9.1.13.jar",
+          "id": "Pixelmon-9.13_Version2.0(client).jar",
           "name": "Pixelmon Mod",
           "type": "File",
           "artifact": {
             "size": 426052437,
-            "url": "https://www.dropbox.com/scl/fi/63ekdkjhgwdzwwqzti6ua/Pixelmon9.1.13.jar?rlkey=hvs2e6926vh6gn8jf3oscvl3i&st=jse9qsi8&dl=1",
+            "url": "https://www.dropbox.com/scl/fi/hwkqg7d0tbmytowdowt2q/Pixelmon-9.13_Version2.0-client.jar?rlkey=jmqtg1zxe6e3az5zm0h39hjwe&st=dirw8wt0&dl=1",
             "MD5": "06b20e29c4459836ddba2508f43811e1",
-            "path": "mods/Pixelmon9.1.13.jar"
+            "path": "mods/Pixelmon-9.13_Version2.0(client)"
           }
         },
         {
