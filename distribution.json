@@ -506,9 +506,20 @@
           "type": "File",
           "artifact": {
             "size": 426052437,
-            "url": "https://www.dropbox.com/scl/fi/p2gi870tn1r01ncc4eq4q/Pixelmon-9.13_Version2.0-client.jar?rlkey=qgdh550vo5t532uexg92valpp&st=23kdv9p5&dl=1",
+            "url": "https://www.dropbox.com/scl/fi/r5ez54h44gix9zefe8ovi/Pixelmon-9.13_Version2.0-client.jar?rlkey=59d8eloy8rwrth1zvwtgb9cpg&st=ruk6c1ym&dl=1",
             "MD5": "06b20e29c4459836ddba2508f43811e1",
             "path": "mods/Pixelmon-9.13_Version2.0(client).jar"
+          }
+        },
+        {
+          "id": "voicechat-forge-1.16.5-2.6.11.jar",
+          "name": "voicechat Mod",
+          "type": "File",
+          "artifact": {
+            "size": 426052437,
+            "url": "https://www.dropbox.com/scl/fi/5narnyp0qgbvr6k8vy3go/voicechat-forge-1.16.5-2.6.11.jar?rlkey=lpx1jdcgxsy9wft7wmk4ndpn5&st=5gn83pfo&dl=1",
+            "MD5": "06b20e29c4459836ddba2508f43811e1",
+            "path": "mods/voicechat-forge-1.16.5-2.6.11.jar"
           }
         },
         {
