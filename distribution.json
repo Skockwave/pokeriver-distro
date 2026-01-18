@@ -512,14 +512,14 @@
           }
         },
         {
-          "id": "voicechat-forge-1.16.5-2.6.11.jar",
+          "id": "voicechat-forge-1.16.5-2.5.27.jar",
           "name": "voicechat Mod",
           "type": "File",
           "artifact": {
             "size": 426052437,
-            "url": "https://www.dropbox.com/scl/fi/5narnyp0qgbvr6k8vy3go/voicechat-forge-1.16.5-2.6.11.jar?rlkey=lpx1jdcgxsy9wft7wmk4ndpn5&st=5gn83pfo&dl=1",
+            "url": "https://www.dropbox.com/scl/fi/xlup3qey2479cgkbym4xn/voicechat-forge-1.16.5-2.5.27.jar?rlkey=mut0gqdz4ldzwoe21mw7vqa3e&st=k0hd4l3r&dl=1",
             "MD5": "06b20e29c4459836ddba2508f43811e1",
-            "path": "mods/voicechat-forge-1.16.5-2.6.11.jar"
+            "path": "mods/voicechat-forge-1.16.5-2.5.27.jar"
           }
         },
         {
